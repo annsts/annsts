@@ -4,6 +4,7 @@
 </p>
 
 <p align="left">
-  creative technologist · ui engineer
+  <strong>creative technologist · ui engineer</strong><br/>
+  <sub>mostly on gitlab these days.</sub>
 </p>
 
